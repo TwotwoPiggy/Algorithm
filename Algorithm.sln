@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_1", "Chapter_1\Chapter_1.csproj", "{EFAFBF4E-433C-4E49-A00D-3F8E2806FC4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter_StringAndArray", "Chapter_1\Chapter_StringAndArray.csproj", "{EFAFBF4E-433C-4E49-A00D-3F8E2806FC4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
